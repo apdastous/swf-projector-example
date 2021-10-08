@@ -1,0 +1,8 @@
+{
+  "name": "dan_flash",
+  "version": "1.0.0",
+  "dependencies": {
+    "@shockpkg/swf-projector": "^2.7.0"
+  },
+  "type": "module"
+}
